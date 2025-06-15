@@ -47,6 +47,7 @@ public class Ham {
         xepLoai(dtb);
 
         System.out.println("Hello world!!");
+        System.out.println("Hello world!!2");
     }
     static int dtb(int diemToan, int diemLy, int diemHoa){
         int dtb = (diemLy + diemHoa + diemToan) /3;
